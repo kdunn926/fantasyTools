@@ -12,9 +12,9 @@ For nhlRosterGenerate, an interactive 2D scatter plot is generated showing mean 
 
 ## Dependencies
 
--PostgreSQL
--nfldb (including setup and initialization)
--Pandas
--mpld3
--qgrid
--py-nhl (included as nhl/stats.py)
+* PostgreSQL
+* nfldb (including setup and initialization)
+* Pandas
+* mpld3
+* qgrid
+* py-nhl (included as nhl/stats.py)
