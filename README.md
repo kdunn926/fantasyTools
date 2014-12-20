@@ -9,3 +9,12 @@ For NFL, an interactive 2D scatter plot is generated showing per-position player
 For nhlRosterPick, an interactive 2D scatter plot is generated showing per-position player z-score versus per-position defense z-score.
 
 For nhlRosterGenerate, an interactive 2D scatter plot is generated showing mean roster rank versus total roster salary, according to information gathered from the next NHL contest on FanDuel.
+
+## Dependencies
+
+PostgreSQL
+nfldb (including setup and initialization)
+Pandas
+mpld3
+qgrid
+py-nhl (included as nhl/stats.py)
